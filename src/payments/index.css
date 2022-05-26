@@ -1,0 +1,289 @@
+.form {
+  background-color: transparent;
+  box-sizing: border-box;
+  align-items: center;
+  margin-right: 20%;
+}
+
+.content {
+  background-color: transparent;
+  box-sizing: border-box;
+  width: auto;
+  align-items: center;
+}
+
+.innerform {
+  background-color: transparent;
+  box-sizing: border-box;
+  min-width: 100%;
+}
+
+.currencyinfo {
+  background-color: transparent;
+  min-width: 100% !important;
+  box-sizing: border-box;
+}
+
+.amount {
+  height: 32px;
+}
+
+.amountdetails {
+  width: 100%;
+  border-bottom: 1px solid #212529;
+  text-align: left;
+  margin-right: auto!important;
+  margin-left: auto!important;
+  text-align: justify;
+  padding-top: 10px;
+  margin-bottom: 15px;
+  display: flex;
+}
+
+.qrtotaldetails {
+  width: 100%;
+  border-bottom: 1px solid #C1C1C1;
+  text-align: left;
+  margin-right: auto!important;
+  margin-left: auto!important;
+  text-align: justify;
+  display: flex;
+  font-weight: 300;
+  color: #000000;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.qrtotaldetailsamount {
+  font-weight: 600;
+}
+
+.qrchequel {
+  font-size: 14px;
+  color: #000000;
+  font-weight: 400;
+}
+
+.qrchequer   {
+  font-size: 14px;
+  color: #7a7a7a;
+  font-weight: 400;
+}
+
+.qrcodeinfo {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.floatright {
+  padding-right: 0!important;
+  padding-bottom: 2px;
+}
+
+.floatleft {
+  padding-left: 0!important;
+}
+
+.linkinfo { 
+  margin-top: 30px;
+  box-sizing: border-box;
+  width: 100%;
+  align-items: center;
+  padding-left: 10%;
+  padding-right: 10%;
+  box-shadow: 0 3px 20px #DEDEDE;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.linkblock {
+  width: 100%;
+}
+
+.linkinfoblock {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.currencyinput {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 20px;
+  background-color: transparent;
+}
+
+.amountpart {
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
+
+.amountparttitle {
+  background-color: transparent;
+  font-weight: 600;
+  color: #212121;
+  font-size: 16px;
+}
+
+.currency {
+  background-color: transparent;
+}
+
+.crypto {
+  background-color: transparent;
+  box-sizing: border-box;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.total {
+  font-weight: 600;
+  font-size: 16px;
+  color: #017FDA;
+}
+
+.conversioninfo {
+  padding-bottom: 10px;
+}
+
+.createpayment {
+  margin-top: 40px;
+}
+
+.dropdownbtn {
+  height: 32px;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  box-shadow: none !important;
+  background-color: #fff !important;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  appearance: none;
+  border-radius: 0.25rem;
+}
+
+.dropdownbtn:focus, .dropdownbtn::after {
+  box-shadow: none !important;
+  background-color: #fff !important;
+}
+
+.modalcontent {
+  margin: 0px 20px 0px 20px;
+}
+
+.modalheader {
+  text-align: center;
+}
+
+.modalheadercreated {
+  color: orange;
+}
+
+.modalheaderpaid {
+  color: green;
+}
+
+.modalbody-main {
+  background-color: transparent;
+  justify-content: center;
+  margin-left: 50px;
+}
+
+.modalbody-details {
+  margin-right: 50px;
+}
+
+.modalbody-details-block1 {
+  background-color: transparent;
+  margin-top: 20px;
+}
+
+.modalbody-details-block2 {
+  text-align: center;
+  margin-top: 10px;
+  border-color: #212529;
+  box-shadow: 5px;
+}
+
+.modalbody-details-block3 {
+  background-color: transparent;
+  margin-top: 10px;
+}
+
+.modalbody-details-block4 {
+  background-color: transparent;
+  margin-top: 10px;
+}
+
+.qrcode {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+
+.modalbtn{
+  width: 45%;
+  margin-bottom: 5px;
+  font-size: small;
+}
+
+.chequelinkinfo { 
+  box-sizing: border-box;
+  width: 100%;
+  align-items: center;
+  padding-left: 2%;
+  padding-right: 2%;
+  box-shadow: 0 3px 20px #DEDEDE;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.chequelinkinfoblock {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.chequetotal {
+  font-weight: 600;
+  font-size: 12px;
+  padding-bottom: 3px;
+  color: #017FDA;
+}
+
+.chequeamount {
+  background-color: transparent;
+  font-weight: 600;
+  color: #212121;
+  font-size: 11px;
+}
+
+.qrlinkdetails {
+  width: 100%;
+  text-align: left;
+  margin-right: auto!important;
+  margin-left: auto!important;
+  text-align: justify;
+  display: flex;
+  font-weight: 300;
+  color: #000000;
+  font-size: 12px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+.qrlinkl {
+  font-size: 16px;
+  color: #000000;
+  font-weight: 400;
+}
+
+.qrlinkr   {
+  font-size: 12px;
+  color: #017FDA;
+  font-weight: 400;
+  word-wrap: break-word;
+}

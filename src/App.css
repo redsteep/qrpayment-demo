@@ -1,0 +1,50 @@
+.app {
+  background-color: #212121;
+  overflow: hidden;
+}
+
+.leftmenu {
+  color: white;
+  margin-top: 100px;
+}
+
+.header {
+  background-color: indigo;
+  color: white;
+  overflow: hidden;
+}
+
+.page {
+  height: 100vh;
+  width: 100vh;
+  background-color: white;
+  align-items: left;
+}
+
+.body {
+  margin-top: 100px;
+  margin-left: 50px;
+  padding-top: 20px;
+}
+
+.menubutton {
+  width: 100% !important;
+  background-color: transparent !important;
+  border: 0 !important;
+  border-radius: 0;
+}
+
+.menubutton:active, .menubutton:focus {
+  background-color: #017FDA !important;
+  border: 0;
+  box-shadow: none;
+}
+
+.title {
+  opacity: .84;
+  color: var(--textdarker);
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 67px;
+  display: inline-block;
+}

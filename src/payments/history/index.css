@@ -1,0 +1,28 @@
+.form {
+  background-color: transparent;
+  box-sizing: border-box;
+  align-items: center;
+  margin-right: 5%;
+}
+
+.content {
+  background-color: transparent;
+  box-sizing: border-box;
+  width: auto;
+  align-items: center;
+}
+
+.history {
+  border-color: #dee2e6;
+  padding: 0.5rem;
+}
+
+.historyrow {
+  border-radius: 2px;
+}
+
+.tranhistory {
+  margin-top: 20px;
+  width: 100%;
+  margin-left: 2%;
+}
